@@ -4,3 +4,4 @@ git add - adds a change in the working directory to the staging area.
 git commit- creates a snapshot of the staged changes along a timeline of a Git projects history.
 git log - displays all of the commits in a repository's history.
 
+Learning Git is amazing!!
