@@ -1,7 +1,25 @@
-git init - initializes git in the folder.
-git status - displays the state of the working directory and the staging area.
-git add - adds a change in the working directory to the staging area.
-git commit- creates a snapshot of the staged changes along a timeline of a Git projects history.
-git log - displays all of the commits in a repository's history.
+git init             - initializes git in the folder.
+git status           - displays the state of the working directory and the staging area.
+git add              - adds a change in the working directory to the staging area.
+git commit           - creates a snapshot of the staged changes along a timeline of a Git projects history.
+git log              - displays all of the commits in a repository's history.
+git checkout         - use to navigate the existing branches.
+git branch           - It lets you create isolated development environments within a single repository.
+git clean            - Removes untracked files from the working directory.
+git clone            - Creates a copy of an existing Git repository.
+git commit --amend   - Passing the --amend flag to git commit lets you amend the most recent commit.
+git config           - A convenient way to set configuration options for your Git installation.
+git fetch            - Fetching downloads a branch from another repository, along with all of its associated commits and files. But, it doesn't try to integrate anything into your local repository. This gives you a chance to inspect changes before merging them with your project.
+git merge            - A powerful way to integrate changes from divergent branches. 
+git pull             - downloads a branch from a remote repository, then immediately merges it into the current branch. 
+git push             - It lets you move a local branch to another repository, which serves as a convenient way to publish contributions.
+git rebase           - Rebasing lets you move branches around, which helps you avoid unnecessary merge commits.
+git rebase -i        - The -i flag is used to begin an interactive rebasing session. This provides all the benefits of a normal rebase, but gives you the opportunity to add, edit, or delete commits along the way.
+git reflog           - Git keeps track of updates to the tip of branches using a mechanism called reflog. This allows you to go back to changesets even though they are not referenced by any branch or tag.
+git remote           - A convenient tool for administering remote connections. Instead of passing the full URL to the fetch, pull, and push commands, it lets you use a more meaningful shortcut.
+git reset            - Undo changes to files in the working directory. Resetting lets you clean up or completely remove changes that have not been pushed to a public repository.
+git revert           - Undoes a committed snapshot. When you discover a faulty commit, reverting is a safe and easy way to completely remove it from the code base.
+
 
 Learning Git is amazing!!
+
