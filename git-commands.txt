@@ -22,4 +22,4 @@ git revert           - Undoes a committed snapshot. When you discover a faulty c
 
 
 Learning Git is amazing!!
-
+By Sobhit Sinha
